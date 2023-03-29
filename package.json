@@ -1,13 +1,13 @@
 {
-  "name": "vinyl-fs",
-  "version": "3.0.3",
+  "name": "@bubblegroup/vinyl-fs",
+  "version": "3.0.4",
   "description": "Vinyl adapter for the file system.",
   "author": "Gulp Team <team@gulpjs.com> (http://gulpjs.com/)",
   "contributors": [
     "Eric Schoffstall <yo@contra.io>",
     "Blaine Bublitz <blaine.bublitz@gmail.com>"
   ],
-  "repository": "gulpjs/vinyl-fs",
+  "repository": "bubblegroup/vinyl-fs",
   "license": "MIT",
   "engines": {
     "node": ">= 0.10"
